@@ -1,0 +1,35 @@
+/*------------Responsive css for screen size 991-----------*/
+
+@media only screen and (max-width: 991px) {
+    .elements {
+        margin: auto;
+    }
+    .template-info {
+        display: none;
+    }
+}
+
+
+/*------------Responsive css for screen size 991-----------*/
+
+@media only screen and (max-width: 600px) {
+    .elements {
+        margin: 0px 0px 0px -25px;
+    }
+    .template-navbar span {
+        right: 15px;
+        top: 30px;
+    }
+}
+
+
+/*------------Responsive css for screen size 991-----------*/
+
+@media screen and (max-height: 450px) {
+    .sidenav {
+        padding-top: 15px;
+    }
+    .sidenav a {
+        font-size: 18px;
+    }
+}
